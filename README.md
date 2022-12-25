@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sujan Khatri @sujansince2003
-- 👀 I’m interested in Web development and Blockchain
+- 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Frontend Web technologies
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me
