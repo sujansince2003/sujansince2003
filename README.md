@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Frontend Web technologies
 - 💞️ I’m looking to collaborate on web projects
-- Current Stack:HTML | CSS | Javscript | Tailwind CSS | React JS ⚛️
+- Current Stack:HTML | CSS | Javscript | Tailwind CSS | React ⚛️ | Typescript | NextJS | Material UI 
 - 📫 How to reach me
    ♦︎facebook:https://www.facebook.com/sujansince2003
    ♦︎linkedIn:https://www.linkedin.com/in/sujansince2003/
