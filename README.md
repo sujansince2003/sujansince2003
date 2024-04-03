@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujan Khatri</h1>
 <h3 align="center">A passionate frontend developer based in Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujansince2003&label=Profile%20views&color=0e75b6&style=flat" alt="sujansince2003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sujansince2003" target="blank"><img src="https://img.shields.io/twitter/follow/sujansince2003?logo=twitter&style=for-the-badge" alt="sujansince2003" /></a> </p>
 
