@@ -1,5 +1,25 @@
-<h1 align="center">Hi 👋, I'm Sujan Khatri</h1>
-<h3 align="center">A passionate frontend developer based in Nepal</h3>
+<h1 align="center">Hi  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="40"> , I'm Sujan Khatri<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="40">&nbsp;</h1>
+
+
+  
+
+<p align="center">
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="200" style="border-radius: 100px;" alt="animated hello">
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="150">
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="150">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="200">
+<br><br>
+<br><br>
+</p>
+
+
+<h3 align="center">A passionate Frontend Developer based in Nepal🇳🇵
+</h3>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+  
+<br><br>
+</p>
 
 
 <p align="left"> <a href="https://twitter.com/sujansince2003" target="blank"><img src="https://img.shields.io/twitter/follow/sujansince2003?logo=twitter&style=for-the-badge" alt="sujansince2003" /></a> </p>
@@ -24,4 +44,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujansince2003&show_icons=true&locale=en&layout=compact" alt="sujansince2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujansince2003&" alt="sujansince2003" /></p>
-<img src="https://raw.githubusercontent.com/sujansince2003/sujansince2003/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/sujansince2003/sujansince2003/blob/output/github-contribution-grid-snake.gif)
