@@ -44,4 +44,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujansince2003&show_icons=true&locale=en&layout=compact" alt="sujansince2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujansince2003&" alt="sujansince2003" /></p>
-![snake gif](https://github.com/sujansince2003/sujansince2003/blob/output/github-contribution-grid-snake.gif)
+
