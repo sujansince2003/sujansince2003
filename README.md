@@ -24,9 +24,9 @@
 
 <p align="left"> <a href="https://twitter.com/sujansince2003" target="blank"><img src="https://img.shields.io/twitter/follow/sujansince2003?logo=twitter&style=for-the-badge" alt="sujansince2003" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS | Typescript | NodeJS Backend**
+- 🌱 I’m busy buiding with **NextJS | ReactJs | Typescript | NodeJS | Express | PostgreSql | MongoDB | Honojs | **
 
-- 💬 Ask me about **HTML,CSS,Javascript,React,Tailwind**
+- - 🌱 I’m currently learning ** System Design | Advance Engineering | Low Level Programming | AI LLM RAG **
 
 - 📫 How to reach me **sujansince2059@gmail.com**
 
