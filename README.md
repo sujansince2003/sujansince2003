@@ -22,7 +22,10 @@
 </p>
 
 
-<p align="left"> <a href="https://twitter.com/sujansince2003" target="blank"><img src="https://img.shields.io/twitter/follow/sujansince2003?logo=twitter&style=for-the-badge" alt="sujansince2003" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sujansince2003" target="blank"><img src="https://img.shields.io/twitter/follow/sujansince2003?logo=twitter&style=for-the-badge" alt="sujansince2003" /></a> 
+
+</p>
+
 
 - 🌱 I’m busy buiding with **NextJS | ReactJs | Typescript | NodeJS | Express | PostgreSql | MongoDB | Honojs | **
 
@@ -54,6 +57,7 @@
 </div>
 
 <br />
-
----
+<p align="start">
+  <img src="https://komarev.com/ghpvc/?username=sujansince2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter for sujansince2003" />
+</p>
 
